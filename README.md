@@ -1,6 +1,6 @@
 # ![nf-core/deepvariant](docs/images/nf-core-deepvariant_logo.png)
 
-**Google DeepVariant variant caller as a Nextflow pipeline**.
+**Google's DeepVariant variant caller as a Nextflow pipeline**.
 
 [![GitHub Actions CI Status](https://github.com/nf-core/deepvariant/workflows/nf-core%20CI/badge.svg)](https://github.com/nf-core/deepvariant/actions)
 [![GitHub Actions Linting Status](https://github.com/nf-core/deepvariant/workflows/nf-core%20linting/badge.svg)](https://github.com/nf-core/deepvariant/actions)
