@@ -12,6 +12,8 @@
 
 ## Introduction
 
+This pipeline simplifies the use of [Google's DeepVariant](https://github.com/google/deepvariant) and packages it as a workflow.
+
 The pipeline is built using [Nextflow](https://www.nextflow.io), a workflow tool to run tasks across multiple compute infrastructures in a very portable manner. It comes with docker containers making installation trivial and results highly reproducible.
 
 ## Quick Start
@@ -46,7 +48,12 @@ The nf-core/deepvariant pipeline comes with documentation about the pipeline: [u
 
 ## Credits
 
-nf-core/deepvariant was originally written by Abhinav Sharma.
+This workflow was originally developed at [Lifebit](https://lifebit.ai/?utm_campaign=documentation&utm_source=github&utm_medium=web), by @luisas, to ease and reduce cost for variant calling analyses
+
+<!-- TODO: Update this to include people who contribute. -->
+The `v2.0` of `nf-core/deepvariant` workflow was modernized by Abhinav Sharma ( @abhi18av ), Alain Coletta ( @alaincoletta).  
+
+Many thanks to nf-core and those who have helped out along the way too, including (but not limited to): @ewels, @MaxUlysse, @apeltzer, @sven1103 & @pditommaso
 
 ## Contributions and Support
 
